@@ -1,0 +1,11 @@
+/* Membuat file bernama styleAnimate.css dan mengetikan kode program*/
+.box{
+
+    width: 100px;
+    height: 100px;
+    background: #9d7ede;
+    margin-top: 30px;
+    border-style: solid;
+    border-color: #6f40ce;
+    position:relative;
+}

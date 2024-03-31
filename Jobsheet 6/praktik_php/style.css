@@ -1,0 +1,16 @@
+/* Praktikum Bagian 3. Multidimensional Array
+Buat file baru dengan nama style.css di dalam direktori praktik_php, kemudian ketikkan kode berikut: */
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+th, td {
+    text-align: left;
+    padding: 16px;    
+}
+    
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
